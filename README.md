@@ -1,1 +1,1 @@
-# Calculator
+A simple, responsive, and attractive calculator built with HTML, CSS, and JavaScript. The design features a clean layout with gradient buttons, modern styling, and smooth interactions. This project demonstrates basic calculator functionality, including addition, subtraction, multiplication, and division, wrapped in an elegant UI with subtle hover effects.
